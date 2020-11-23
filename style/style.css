@@ -9,10 +9,12 @@ a {
 }
 
 .bluenav {
+	font-size: 22px;
 	color: blue;
 }
 
 .rednav {
+	font-size: 22px;
 	color: red;
 }
 
@@ -27,5 +29,5 @@ iframe {
 	border-style: solid;
 	margin-left: 400px;
 	margin-top: 80px;
-	
+
 }
