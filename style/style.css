@@ -1,0 +1,31 @@
+a {
+	text-decoration: none;
+}
+
+.logo {
+	width: 100px;
+	margin-top: 20px;
+    margin-left: 40px;
+}
+
+.bluenav {
+	color: blue;
+}
+
+.rednav {
+	color: red;
+}
+
+nav {
+	display: inline-block;
+}
+li {
+	display: inline-block;
+	width: 150px;
+}
+iframe {
+	border-style: solid;
+	margin-left: 400px;
+	margin-top: 80px;
+	
+}
