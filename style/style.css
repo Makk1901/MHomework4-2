@@ -29,5 +29,7 @@ iframe {
 	border-style: solid;
 	margin-left: 400px;
 	margin-top: 80px;
-
+}
+section {
+	background-color: #E4E4E4;
 }
