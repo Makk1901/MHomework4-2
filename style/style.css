@@ -25,11 +25,29 @@ li {
 	display: inline-block;
 	width: 150px;
 }
-iframe {
-	border-style: solid;
-	margin-left: 400px;
-	margin-top: 80px;
+
+h3 {
+	color: #3D58A6;
 }
-section {
-	background-color: #E4E4E4;
+.suratebi {
+	display: inline-block;
+	margin:15px;
+}
+.map {
+
+}
+div{
+	display: inline-block;
+}
+.info {
+width: 260px;
+height: 90px;
+margin-left: 80px;
+margin-bottom: 300px;
+}
+.section1 {
+	background-color: #E6E6E6;
+	height: 570px;
+	width: 1366px;
+	margin-top: 15px;
 }
