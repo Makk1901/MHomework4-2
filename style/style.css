@@ -26,28 +26,29 @@ li {
 	width: 150px;
 }
 
-h3 {
-	color: #3D58A6;
-}
 .suratebi {
 	display: inline-block;
 	margin:15px;
 }
-.map {
 
-}
-div{
-	display: inline-block;
-}
 .info {
-width: 260px;
-height: 90px;
-margin-left: 80px;
-margin-bottom: 300px;
+	width: 200px;
+	height: 90px;
+	padding: 50px;
+	margin-left: 100px;
+
 }
 .section1 {
 	background-color: #E6E6E6;
 	height: 570px;
-	width: 1366px;
+	max-width: : 1366px;
+	width: 100%;
 	margin-top: 15px;
+}
+/*.div1 {
+	display: inline-block;*/
+}
+.div2 {
+	display: inline-block;
+	margin-left: 200px;
 }
