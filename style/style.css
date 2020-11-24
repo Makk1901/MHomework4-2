@@ -21,6 +21,7 @@ a {
 nav {
 	display: inline-block;
 }
+
 li {
 	display: inline-block;
 	width: 150px;
@@ -28,8 +29,9 @@ li {
 
 .suratebi {
 	display: inline-block;
-	margin:15px;
+	margin: 30px;
 }
+
 .b-color {
 	background-color: #E6E6E6;
 	 max-width: 1366px;
@@ -38,9 +40,15 @@ li {
     margin-top: 20px;
 }
 .box1 {
-	
+	display: inline-block;
+	width: 200px;
+	margin-left: 60px;
+	padding: 60px;
+
+
 }
 .box2 {
-	margin-left: 400px;
+	display: inline-block;
+	margin-left: 100px;
 	margin-top: 20px;
 }
